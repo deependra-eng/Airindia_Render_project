@@ -1,0 +1,10 @@
+xgboost
+streamlit
+pandas
+numpy
+wordcloud
+tokenizers
+tiktoken
+scikit-learn
+wordcloud
+nltk
